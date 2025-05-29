@@ -87,7 +87,6 @@ Student @ Northeastern University
 
 ---
 
-📄 License
+## 📄 License
 
-This project is for educational and portfolio purposes only. No commercial use intended.
----
+This project is for personal, educational, and portfolio purposes only. No commercial use intended.

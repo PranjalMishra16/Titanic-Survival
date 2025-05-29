@@ -1,12 +1,12 @@
-🛳️ Titanic Survival Prediction
+##🛳️ Titanic Survival Prediction
 
 Titanic Survival Prediction is a data analysis and machine learning project that explores passenger survival on the Titanic. It demonstrates end-to-end steps—from data loading and cleaning, through exploratory analysis and feature engineering, to training and evaluating classification models.
 
-🌐 Live Preview
+##🌐 Live Preview
 
-🔗 [(https://colab.research.google.com/drive/1S9nvX6CFdgQrI1mBa5GFJSQTqQ8424_3#scrollTo=DGrlsviSeRA3)]
+##🔗 [(https://colab.research.google.com/drive/1S9nvX6CFdgQrI1mBa5GFJSQTqQ8424_3#scrollTo=DGrlsviSeRA3)]
 
-📁 Project Structure
+##📁 Project Structure
 
 data/
 
@@ -29,15 +29,15 @@ requirements.txt – Python package dependencies
 README.md        – Project overview and instructions (you are here)
 
 
-🎯 Features & Highlights
+##🎯 Features & Highlights
 
-🔍 Exploratory Data Analysis
+##🔍 Exploratory Data Analysis
 
 Survival rates overall and by key features: Pclass, Sex, Embarked, Family size, Age, Fare
 
 Violin plots and heatmaps to visualize distributions and correlations
 
-🛠️ Feature Engineering
+##🛠️ Feature Engineering
 
 Title extraction from passenger names
 
@@ -49,7 +49,7 @@ Binning of Age and Fare into discrete categories
 
 Creation of family-related features: Family size and Alone flag
 
-🤖 Model Training & Evaluation
+##🤖 Model Training & Evaluation
 
 Logistic Regression (∼80% train accuracy)
 

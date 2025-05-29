@@ -4,7 +4,7 @@ Titanic Survival Prediction is a data analysis and machine learning project that
 
 ## 🌐 Live Preview
 
-## 🔗 Colab [(https://colab.research.google.com/drive/1S9nvX6CFdgQrI1mBa5GFJSQTqQ8424_3#scrollTo=DGrlsviSeRA3)]
+🔗 [Colab](https://colab.research.google.com/drive/1S9nvX6CFdgQrI1mBa5GFJSQTqQ8424_3#scrollTo=DGrlsviSeRA3)
 
 ## 📁 Project Structure
 
